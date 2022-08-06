@@ -1,20 +1,20 @@
 # Hi! Nice to meet you, I'm igor.
 
 I'm a mid-level fullstack developer who specializes 
-in dart using dart both on the backend with
+in dart using the language both on the backend with
 shelf and on the front with flutter. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Flutter" height="27" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> My flutter stacks:
  
  - ### Value notifier and SetState
-      More than enough for most projects that don't intend to grow. They don't need a state manager.
+      More than enough for most projects that don't intend to grow. They don't need a third party state manager, flutter is enought.
   
  - ### Mobx && Modular && Equatable && Flutter Hooks
-      More fire power, i use a lot this stack when i am with a freelancer project that wont scale to much.
+      More fire power and productivity. I use a lot this stack when i am with a freelancer project that wont scale to much, but asks for something more than the Value Notifier.
  
  - ### Bloc && Cubit && Freezed && Flutter Hooks && Bloc_test
-      I use this stack for bigger projects that is more robust to manage projects that are expected to grow a lot and need a more testable environment.
+      I use this stack that is more robust for bigger projects. this tools help manage projects that are expected to grow a lot and need a more testable environment.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Flutter" height="27" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> My dart backend stack:
