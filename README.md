@@ -48,4 +48,4 @@ shelf and on the front with flutter.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igormidev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/igor_midev/igor_midev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/igormidev/igormidev/blob/output/github-contribution-grid-snake.svg)
