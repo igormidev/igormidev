@@ -40,7 +40,7 @@ shelf and on the front with flutter framework.
 ---
 
 <div style="display: inline_block"><br>
-<img align="right" alt="Igor-pic" height="180" style="border-radius:50px;" src="https://instagram.fsdu8-2.fna.fbcdn.net/v/t51.2885-15/103675132_295652188129964_7673321093869081766_n.jpg?stp=dst-jpg_e35_s480x480&_nc_ht=instagram.fsdu8-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=LdBwbdcGcvkAX_DH1PP&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_gDaBOw9bK2veXVTURvsPaLx3XpkGlA-VI9F0j85n93A&oe=62F3FA79&_nc_sid=8fd12b">
+<img align="right" alt="Igor-pic" height="180" style="border-radius:50px;" src="https://raw.githubusercontent.com/igormidev/igormidev/main/103675132_295652188129964_7673321093869081766_n.jpg">
 </div>
 
 <div align="center">
