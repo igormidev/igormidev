@@ -1,8 +1,8 @@
 # Hi! Nice to meet you, I'm igor.
 
-I'm a mid-level fullstack developer who specializes 
+I'm a dart/flutter fullstack developer who specializes 
 in dart using the language both on the backend with
-shelf and on the front with flutter. 
+shelf and on the front with flutter framework. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Flutter" height="27" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> My flutter stacks:
