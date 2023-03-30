@@ -1,7 +1,7 @@
 # Hi! Nice to meet you, I'm igor.
 
 I'm a dart/flutter fullstack developer who specializes 
-in dart using the language both on the backend with
+in using the dart language both on the backend with
 shelf and on the front with flutter framework. 
 
 <div style="display: inline_block"><br>
