@@ -53,6 +53,24 @@
 - Health product delivery involving video streaming and chat features with healthcare providers.
 - Built and shipped two real SaaS products, `ZenScrap` and `Mustache Hub`, then later open sourced them as portfolio codebases.
 
+## Featured project — Presscut Studio
+
+<p>
+  <a href="https://igormidev.github.io/presscut-studio/">
+    <img src="https://raw.githubusercontent.com/igormidev/presscut-studio/main/public/presscut-icon.png" alt="Presscut Studio — paper-cut visuals and animations" width="96" height="96" />
+  </a>
+</p>
+
+I built **Presscut Studio** for my YouTube workflow: reusable newspaper and magazine-style visuals without rebuilding every effect in a video editor.
+
+- **Images:** scissor-cut paper borders, halftone dots, crumpled-paper texture and animated cutouts.
+- **Letters:** magazine-style cutout lettering with typewriter, word-by-word and changing-font animations.
+- **Videos:** taped picture frames, with freeze, loop or reverse-loop extensions and the option to keep the original sound.
+
+Media processing stays in the browser. Export transparent PNG images or transparent MOV animations for compositing in editors such as CapCut.
+
+**[Open Presscut Studio](https://igormidev.github.io/presscut-studio/)** · [Explore the source](https://github.com/igormidev/presscut-studio)
+
 ## Open source highlights
 
 | Project | What it does |
